@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <b>Vladislav</b>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"><i>Hi, I'm Vladislav, a frontend developer. Beginner neural network developer</i></h3>
+<br>
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://t.me/vlavsa" target="blank"><img align="center" src="#" ></a>
+</p>
 
-<!--
-**Vlavsa/vlavsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+*I usually write in* `JavaScript`, *but I can also write in* `Python`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My skills:</h3>
+<p>
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+</p>
+<h4>Tools:</h4>
+<p>
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+
+
