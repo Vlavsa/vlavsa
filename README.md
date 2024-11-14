@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://t.me/vlavsa" target="blank"><img width="40px" height="40px" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
-  <a href="https://leetcode.com/u/user3709yL/" target="blank"><img width="40px" height="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+  <a href="https://leetcode.com/u/vlavsa/" target="blank"><img width="40px" height="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
   <a href="mailto:vlavsa@yandex.ru" target="blank"><img width="40px" height="40px" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/></a>
 </p>
 
