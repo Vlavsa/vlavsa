@@ -3,6 +3,7 @@
 <h3 align="center"><i>Hi, I'm Vladislav, a frontend developer. Beginner neural network developer</i></h3>
 <br>
 <h3>Connect with me:</h3>
+
 <p>
   <a href="https://t.me/vlavsa" target="blank"><img align="center" src="#" ></a>
 </p>
