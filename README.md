@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <b>Vladislav</b>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><i>Hi, I'm <strong>Vladislav, a frontend developer. Beginner neural network developer</i></h3>
+<h3 align="center"><i>Hi, I'm <strong>Vladislav, a ML developer. Beginner neural network developer</i></h3>
 <br>
 <h3>Connect with me:</h3>
 
